@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bereket DA</title>
+    <link>https://BereketDA.github.io/en/</link>
+    <description>Recent content on Bereket DA</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://BereketDA.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://BereketDA.github.io/en/post/week1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://BereketDA.github.io/en/post/week1/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;Week 1 Recap: Getting Started with GitHub Pages&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;date: 2026-05-30&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;This week I:&lt;/p&gt;&#xA;&lt;p&gt;- Set up a GitHub repository: BereketDA.github.io&lt;/p&gt;&#xA;&lt;p&gt;- Installed Hugo static site generator&lt;/p&gt;&#xA;&lt;p&gt;- Configured a working theme (Ananke)&lt;/p&gt;&#xA;&lt;p&gt;- Created my first homepage&lt;/p&gt;&#xA;&lt;p&gt;Next week: Adding bilingual support and more posts!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

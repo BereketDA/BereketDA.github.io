@@ -1,0 +1,16 @@
+baseURL = "https://BereketDA.github.io/"
+title = "Bereket DA"
+theme = "ananke"
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+  [languages.ru]
+    languageName = "Русский"
+    weight = 2
+
+[params]
+  site_logo = ""
+  description = "My personal academic website"
