@@ -6,7 +6,7 @@ title: "Welcome to My Website"
 
 
 
-Hello! I'm \*\*Bereket DA\*\*.
+Hello! I'm \*\*Bereket DA\*\* (Bereket Dagne).
 
 
 
@@ -42,9 +42,45 @@ I am a student passionate about technology, programming, and web development.
 
 
 
-\## Find me on GitHub
+\## Academic \& Research Profiles
 
 
 
-\[https://github.com/BereketDA](https://github.com/BereketDA)
+\- \[GitHub](https://github.com/BereketDA)
+
+\- \[ORCID](https://orcid.org/0009-0007-6624-9756)
+
+\- \[ResearchGate](https://www.researchgate.net/profile/Bereket-Kebede-7)
+
+
+
+\## Latest Posts
+
+
+
+Check the \*\*Posts\*\* menu above to read my blog posts about:
+
+\- Version control with Git
+
+\- Markdown vs LaTeX
+
+\- Bibliography management
+
+\- Weekly recaps
+
+
+
+\## My Projects
+
+
+
+Visit the \*\*Projects\*\* menu to see my personal website project.
+
+
+
+\---
+
+
+
+\*Use the menu at the top to navigate between sections.\*
 

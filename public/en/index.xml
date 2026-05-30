@@ -9,10 +9,52 @@
     <atom:link href="https://BereketDA.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>https://BereketDA.github.io/en/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://BereketDA.github.io/en/accomplishments/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;Accomplishments&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;date: 2026-05-30&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;## Certifications (Planned/In Progress)&lt;/p&gt;&#xA;&lt;p&gt;- GitHub Foundations&lt;/p&gt;&#xA;&lt;p&gt;- Hugo Static Site Development&lt;/p&gt;&#xA;&lt;p&gt;## Achievements&lt;/p&gt;&#xA;&lt;p&gt;- Successfully deployed personal website on GitHub Pages&lt;/p&gt;&#xA;&lt;p&gt;- Learning bilingual site development (English/Russian)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://BereketDA.github.io/en/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://BereketDA.github.io/en/experience/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;Experience&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;date: 2026-05-30&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;## Academic Projects&lt;/p&gt;&#xA;&lt;p&gt;**Student Developer** | 2024 - Present&lt;/p&gt;&#xA;&lt;p&gt;- Building personal website using Hugo and GitHub Pages&lt;/p&gt;&#xA;&lt;p&gt;- Learning version control with Git&lt;/p&gt;&#xA;&lt;p&gt;## Coursework&lt;/p&gt;&#xA;&lt;p&gt;- Web Development&lt;/p&gt;&#xA;&lt;p&gt;- Programming Fundamentals&lt;/p&gt;&#xA;&lt;p&gt;- Data Structuressd&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://BereketDA.github.io/en/post/bilingual-final/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://BereketDA.github.io/en/post/bilingual-final/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;Building a Bilingual Website with Hugo&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;date: 2026-05-31&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;## Why a Bilingual Website?&lt;/p&gt;&#xA;&lt;p&gt;Having a website in multiple languages makes your research accessible to more people. My site now supports:&lt;/p&gt;&#xA;&lt;p&gt;- **English** - For international audiences&lt;/p&gt;&#xA;&lt;p&gt;- **Russian** - For local readers&lt;/p&gt;&#xA;&lt;p&gt;## How Hugo Handles Multilingual Content&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes bilingual sites easy:&lt;/p&gt;&#xA;&lt;p&gt;1. Create &lt;code&gt;content/en/&lt;/code&gt; for English pages&lt;/p&gt;&#xA;&lt;p&gt;2. Create &lt;code&gt;content/ru/&lt;/code&gt; for Russian pages&lt;/p&gt;&#xA;&lt;p&gt;3. Configure languages in &lt;code&gt;hugo.toml&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>https://BereketDA.github.io/en/post/week1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://BereketDA.github.io/en/post/week1/</guid>
       <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;Week 1 Recap: Getting Started with GitHub Pages&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;date: 2026-05-30&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;This week I:&lt;/p&gt;&#xA;&lt;p&gt;- Set up a GitHub repository: BereketDA.github.io&lt;/p&gt;&#xA;&lt;p&gt;- Installed Hugo static site generator&lt;/p&gt;&#xA;&lt;p&gt;- Configured a working theme (Ananke)&lt;/p&gt;&#xA;&lt;p&gt;- Created my first homepage&lt;/p&gt;&#xA;&lt;p&gt;Next week: Adding bilingual support and more posts!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://BereketDA.github.io/en/post/week3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://BereketDA.github.io/en/post/week3/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;Week 3 Recap: Academic Profiles and Bilingual Setup&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;date: 2026-05-31&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;This week I completed:&lt;/p&gt;&#xA;&lt;p&gt;- Registered on **ORCID** and **ResearchGate**&lt;/p&gt;&#xA;&lt;p&gt;- Created a **Google Scholar** profile&lt;/p&gt;&#xA;&lt;p&gt;- Added academic links to my website&lt;/p&gt;&#xA;&lt;p&gt;- Learned about Markdown vs LaTeX for documentation&lt;/p&gt;&#xA;&lt;p&gt;Next week: Adding Russian translations and making the site fully bilingual!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://BereketDA.github.io/en/project/personal-website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://BereketDA.github.io/en/project/personal-website/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;Personal Academic Website&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;date: 2026-05-31&lt;/p&gt;&#xA;&lt;p&gt;summary: &amp;ldquo;Building a bilingual academic website using Hugo and GitHub Pages&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;## Project Overview&lt;/p&gt;&#xA;&lt;p&gt;This website is my personal academic portfolio, built as part of my studies.&lt;/p&gt;&#xA;&lt;p&gt;## Technologies Used&lt;/p&gt;&#xA;&lt;p&gt;- **Hugo** - Static site generator&lt;/p&gt;&#xA;&lt;p&gt;- **GitHub Pages** - Free hosting&lt;/p&gt;&#xA;&lt;p&gt;- **Markdown** - Content creation&lt;/p&gt;&#xA;&lt;p&gt;- **Git** - Version control&lt;/p&gt;&#xA;&lt;p&gt;## Features&lt;/p&gt;&#xA;&lt;p&gt;- Bilingual support (English/Russian)&lt;/p&gt;&#xA;&lt;p&gt;- Blog posts about technical topics&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://BereketDA.github.io/en/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://BereketDA.github.io/en/skills/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;Skills&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;date: 2026-05-30&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;## Technical Skills&lt;/p&gt;&#xA;&lt;p&gt;- **Programming Languages:** Python, JavaScript, HTML/CSS&lt;/p&gt;&#xA;&lt;p&gt;- **Version Control:** Git, GitHub&lt;/p&gt;&#xA;&lt;p&gt;- **Tools:** Hugo, VS Code, Command Line&lt;/p&gt;&#xA;&lt;p&gt;- **Web Technologies:** Static sites, Markdown&lt;/p&gt;&#xA;&lt;p&gt;## Soft Skills&lt;/p&gt;&#xA;&lt;p&gt;- Problem solving&lt;/p&gt;&#xA;&lt;p&gt;- Quick learner&lt;/p&gt;&#xA;&lt;p&gt;- Team collaboration&lt;/p&gt;&#xA;&lt;p&gt;- Time management&lt;/p&gt;&#xA;&lt;p&gt;## Currently Learning&lt;/p&gt;&#xA;&lt;p&gt;- Data Science fundamentals&lt;/p&gt;&#xA;&lt;p&gt;- LaTeX for document preparation&lt;/p&gt;&#xA;&lt;p&gt;- CI/CD pipelines&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
